@@ -216,9 +216,9 @@ A filtration blank is performed using 100mL DI water. Observe and note any leaks
 - No studies have yet been published using this method.
 
 ## APPENDIX A: DATASHEETS
-![IMG_3710 (1)](https://hackmd.io/_uploads/BJiZRGQalg.jpg)
+![Image_1)](https://github.com/CalCOFI/Archived-eDNA-Sampling/blob/main/IMG_3710%20(1).jpeg)
 Figure 1. 6-prong manifold, pictured and labeled according to terminology as used in this protocol. 
 
-![IMG_3713 (1)](https://hackmd.io/_uploads/ryiZ0MQ6lg.jpg)
+![Image_2](https://github.com/CalCOFI/Archived-eDNA-Sampling/blob/main/IMG_3713%20(1).jpeg)
 Figure 2. Individual vacuums, shown both "on" (suction going through the vacuum) and "off" (no suction). 
 

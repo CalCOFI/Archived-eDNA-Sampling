@@ -15,7 +15,7 @@ skills_required: sterile technique, pipetting skills, standard molecular techniq
 time_required: 840
 personnel_required: 1
 language: en
-issued: # YYYY-MM-DD
+issued: 2025-10-17
 audience: scientists
 publisher: Scripps Institution of Oceanography, UC San Diego
 hasVersion: 1

@@ -15,7 +15,7 @@ skills_required: sterile technique, pipetting skills, standard molecular techniq
 time_required: 840
 personnel_required: 1
 language: en
-issued: 2025-10-17
+issued: # 2025-10-17
 audience: scientists
 publisher: Scripps Institution of Oceanography, UC San Diego
 hasVersion: 1
@@ -150,12 +150,17 @@ Sampling around 100 jars takes about 6-8 hours. Filtration of around 100 samples
 
 ### Sampling
 1. Invert each jar five times to mix the ethanol, then let the biomass settle to the bottom. This can be done outside the fume hood. If working on groups of about 30 jars at a time, the first one will have settled by the time you finish inverting the last jar. 
-2. For each jar, perform the following steps: 
-    a. Bring the jar into the fume hood and carefully unscrew the lid. Use a serological pipette to transfer 2 x 50 mL ethanol into the labeled 50 mL conicals. If the jar contains too much biomass to cleanly extract 100 mL of ethanol, use a mesh lid or plankton sock to filter out 100 mL into another container. Transfer the 100 mL into the conicals, return any remaining ethanol to the jar, and squirt ethanol on and through the mesh/sock to return any remaining biomass to the jar. Make a note on sample sheet when the mesh/sock is used. Clean mesh or sock with DI water between samples.
-b. Use a different pipette for each sample. If <100 mL ethanol is available for transfer, make a note in the sample sheet. 
-c. Transfer new TRIS-buffered ethanol into the sampled jar, either by carefully pouring or with a “clean” pipette. Be careful not to splash.
-d. Carefully screw the lid back onto the jar. Mark it as sampled.
-e. Repeat steps a-c for each sample on the sheet. If a sample is on the sheet but the jar is missing, make a note.
+2. For each jar, perform the following steps:
+
+	a. Bring the jar into the fume hood and carefully unscrew the lid. Use a serological pipette to transfer 2 x 50 mL ethanol into the labeled 50 mL conicals. If the jar contains too much biomass to cleanly extract 100 mL of ethanol, use a mesh lid or plankton sock to filter out 100 mL into another container. Transfer the 100 mL into the conicals, return any remaining ethanol to the jar, and squirt ethanol on and through the mesh/sock to return any remaining biomass to the jar. Make a note on sample sheet when the mesh/sock is used. Clean mesh or sock with DI water between samples.
+	
+	b. Use a different pipette for each sample. If <100 mL ethanol is available for transfer, make a note in the sample sheet.
+	
+	c. Transfer new TRIS-buffered ethanol into the sampled jar, either by carefully pouring or with a “clean” pipette. Be careful not to splash
+	
+	d. Carefully screw the lid back onto the jar. Mark it as sampled
+	
+	e. Repeat steps a-d for each sample on the sheet. If a sample is on the sheet but the jar is missing, make a note.
 3. When finished, wipe up any spills in and around the fume hood. Confirm all jars have been topped off and are tightly closed.
 
 ### Filtration

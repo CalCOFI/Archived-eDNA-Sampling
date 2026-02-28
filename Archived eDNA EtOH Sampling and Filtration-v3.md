@@ -115,7 +115,7 @@ Sampling around 100 jars takes about 6-8 hours. Filtration of around 100 samples
 | DESCRIPTION | PRODUCT NAME AND MODEL | MANUFACTURER | QUANTITY | REMARK |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Durable equipment** |
-| Seroligical pipetter |Serological pipette controller | Generic brand | 1 |  |
+| Serological pipetter |Serological pipette controller | Generic brand | 1 |  |
 | Vacuum Manifold| MultiVac 610-MS-T, 6-Branch Aluminum Manifold Vacuum Filtration System | Steriltech | 1 |  |
 | **Consumable equipment** |
 | Gloves | Powder-free nitrile gloves | Generic brand | 1 box|

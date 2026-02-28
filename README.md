@@ -5,9 +5,9 @@ This protocol describes the methods used to sample preserved eDNA from archived 
 
 | File Name              | Description            | Concept DOI                          | Latest Version DOI                      |
 |------------------------|-----------------------|---------------------------------------|------------------------------------------|
-| `Archived eDNA EtOH Sampling and Filtration-v3.md`        | Version 1.0.0 | [10.5281/zenodo.16729110](https://zenodo.org/records/16923288) | [10.5281/zenodo.16923288](https://zenodo.org/records/16923288) |
+| `Archived eDNA EtOH Sampling and Filtration-v3.md`        | Version 1.0.0 | [![DOI](https://zenodo.org/badge/1078440496.svg)](https://doi.org/10.5281/zenodo.17917501) | [![DOI](https://zenodo.org/badge/1078440496.svg)](https://doi.org/10.5281/zenodo.17917502) |
 
 ## How to Cite
 
-Please cite the appropriate version using its versioned DOI, or use the concept DOI to always refer to the latest version.
+Please cite the appropriate version using its versioned DOI.
 
